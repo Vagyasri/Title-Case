@@ -1,7 +1,7 @@
 {
   "name": "title-case",
   "version": "1.0.0",
-  "description": "In this project, we are creating a website consisting of Recipes from around the world. We are using a Kanban board for practice purposes and we have used an external API.s",
+  "description": "In this Project I have created a function to return the provided string with the first letter of each word capitalized and made sure that the rest of the word is in lower case.",
   "private": true,
   "scripts": {
     "test": "jest",
