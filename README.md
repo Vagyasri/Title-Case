@@ -1,5 +1,5 @@
 # Title Case
-In this Project I have created a function to return the provided string with the first letter of each word capitalized and made sure that the rest of the word is in lower case.
+In this Project, I have created a function to return the provided string with the first letter of each word capitalized and made sure that the rest of the word is in lower case.
 
 ## Built With
 
